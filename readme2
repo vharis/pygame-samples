@@ -3,7 +3,9 @@ this is small change
 As per comment I'm specifying the filename as readme2, please consider
 Added new line to test the checkout
 This is a new line added
-
 Resolved merge conflicts and compilation errors.
-
 another merge conflict
+-----------------pull request#1-----------------------------
+-----------------pull request#2-----------------------------
+-----------------pull request#3-----------------------------
+readme2
