@@ -6,6 +6,6 @@ This is a new line added
 Resolved merge conflicts and compilation errors.
 another merge conflict
 -----------------pull request#1-----------------------------
------------------pull request#2-----------------------------
------------------pull request#3-----------------------------
+-----------------pull request#2-----MergeConflict#2---------------------------
+-----------------pull request#3----MergeConflict#3-------------------------
 readme2
